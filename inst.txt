@@ -1,0 +1,13 @@
+		INSTRUCCIONES PARA EL USO DEL PROGRAMA:
+
+	-Pulse "Abrir" y seleccione el archivo txt que desea representar en el histograma.
+
+	-Puede cambiar los datos simplemente haciendo clic izquierdo en los Textfields y cambiar
+ los datos a su gusto, para que estos datos modificados se vean en la grafica debe pulsar
+ el boton de "ACTUALIZAR". 
+
+	-Tambien puede guardar el archivo en formato jpg pulsando el boton archivo-->exportar. 
+
+	-Para cambiar el color puede usar la herramienta de color, que se situa dentro de
+ preferencias. Se abrira una paleta de colores donde puede elegir el color que se usara para
+ pintar todas las barras del histograma.
